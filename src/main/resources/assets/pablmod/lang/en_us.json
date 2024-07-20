@@ -2,5 +2,9 @@
   "item.pablmod.lunettes": "Lunettes de Pablo",
   "item.pablmod.pablo": "Pablo",
 
+  "block.pablmod.pablock": "Pablock",
+  "block.pablmod.pablore": "Pablore",
+  "block.pablmod.pabloredeep": "Deep Pablore",
+
   "itemGroup.PABLO_TAB": "PablMod"
 }
