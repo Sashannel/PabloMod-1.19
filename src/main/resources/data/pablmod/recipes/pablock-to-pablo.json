@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pablmod:pablock"
+    }
+  ],
+  "result": {
+    "item": "pablmod:pablo",
+    "count": 9
+  }
+}

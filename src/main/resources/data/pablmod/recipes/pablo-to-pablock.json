@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "pablmod:pablo"
+    }
+  },
+  "result": {
+    "item": "pablmod:pablock",
+    "count": 1
+  }
+}
